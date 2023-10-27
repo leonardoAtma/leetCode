@@ -1,9 +1,5 @@
-#include <cstdio>
-#include <vector>
-#include "./day.cpp"
-#include "./day2.cpp"
-#include <iostream>
-using namespace std;
+#include <l.hpp>
+#include <includ.h>
 
 int main()
 {

@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-using namespace std;
+#include <l.hpp>
 
 int kthGrammarWithPrint(int n, int k)
 {
