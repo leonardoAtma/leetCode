@@ -1,3 +1,5 @@
+import 'teste.enum.dart';
+
 _teste2() {
   dynamic s = <String, dynamic>{
     'nivel-1': {'nivel-2': 2},
@@ -91,5 +93,5 @@ calcRoman(String nomanNumber) {
 }
 
 void main() async {
-  print(calcRoman("MDCCLXXVI"));
+  print(farinha.values.where((element) => element.name == "asdasd").firstOrNull);
 }
